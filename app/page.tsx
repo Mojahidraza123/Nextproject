@@ -1,6 +1,6 @@
 "use client";
 
-import { Search, Home, MapPin, DollarSign } from "lucide-react";
+import { Search, Home as LucideHome, MapPin, DollarSign } from "lucide-react";
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
